@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "createdeco:block/andesite_catwalk"
+      }
+    },
+    {
+      "apply": {
+        "model": "createdeco:block/andesite_catwalk_support"
+      },
+      "when": {
+        "bottom": "true"
+      }
+    }
+  ]
+}

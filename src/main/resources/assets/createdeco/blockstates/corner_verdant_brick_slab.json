@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createdeco:block/corner_verdant_brick_slab"
+    },
+    "type=double": {
+      "model": "createdeco:block/corner_verdant_bricks"
+    },
+    "type=top": {
+      "model": "createdeco:block/corner_verdant_brick_slab_top"
+    }
+  }
+}

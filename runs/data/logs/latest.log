@@ -1,0 +1,43 @@
+[30Aug2025 03:42:20.971] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, createdeco, --all, --output, C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\src\generated\resources, --existing, C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\src\main\resources, --launchTarget, forgedatadev, --assetIndex, asset-index, --assetsDir, C:\Users\micha\.gradle\caches\minecraft\assets, --gameDir, ., --fml.fmlVersion, 4.0.41, --fml.mcVersion, 1.21.1, --fml.neoForgeVersion, 21.1.193, --fml.neoFormVersion, 20240808.144430]
+[30Aug2025 03:42:20.976] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[30Aug2025 03:42:20.979] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[30Aug2025 03:42:21.099] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatadev
+[30Aug2025 03:42:21.143] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/micha/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23142!/ Service=ModLauncher Env=CLIENT
+[30Aug2025 03:42:21.341] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.193.jar" [locator: neoforge devenv provider ([C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.193\neoforge-21.1.193.jar])]
+[30Aug2025 03:42:21.364] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.193.jar" [locator: neoforge devenv provider ([C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.193\neoforge-21.1.193.jar])]
+[30Aug2025 03:42:21.374] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "main" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.384] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.193.jar" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.392] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.6-98.jar" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.395] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Ponder-NeoForge-1.21.1-1.0.59.jar" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.399] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.4.jar" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.459] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [locator: userdev mods and services, reader: mod manifest]
+[30Aug2025 03:42:21.723] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:mixinextras.neoforge. Using Mod File: C:\Users\micha\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.4.1\eff97772ecd0dcf8e52cdbafd3b3ccec425f8314\mixinextras-neoforge-0.4.1.jar
+[30Aug2025 03:42:21.725] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: C:\Users\micha\.gradle\caches\modules-2\files-2.1\dev.engine-room.flywheel\flywheel-neoforge-1.21.1\1.0.4\47fe9da825b4479bbac55d6432d5932ee76f32f0\flywheel-neoforge-1.21.1-1.0.4.jar
+[30Aug2025 03:42:21.725] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: ponder. Using Mod File: C:\Users\micha\.gradle\caches\modules-2\files-2.1\net.createmod.ponder\Ponder-NeoForge-1.21.1\1.0.59\cdc698c9b96261f43253c94289c24c580b3d603\Ponder-NeoForge-1.21.1-1.0.59.jar
+[30Aug2025 03:42:21.725] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[30Aug2025 03:42:21.725] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.193.jar" [parent: neoforge-21.1.193.jar, locator: jarinjar, reader: mod manifest]
+[30Aug2025 03:42:21.725] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+62.jar" [parent: create-1.21.1-6.0.6-98.jar, locator: jarinjar, reader: mod manifest]
+[30Aug2025 03:42:21.728] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Create 6.0.6 (create)
+		Create Deco 2.0.3 (createdeco)
+		Flywheel 1.0.4 (flywheel)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.193 (neoforge)
+		Ponder 1.0.59 (ponder)
+[30Aug2025 03:42:22.361] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[30Aug2025 03:42:22.386] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatadev' with arguments [--gameDir, ., --assetsDir, C:\Users\micha\.gradle\caches\minecraft\assets, --mod, createdeco, --all, --output, C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\src\generated\resources, --existing, C:\Users\micha\Documents\Blocks & Bogeys 1.21.1\CreateDeco\src\main\resources, --assetIndex, asset-index]
+[30Aug2025 03:42:22.507] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Aug2025 03:42:22.507] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Aug2025 03:42:22.509] [main/WARN] [mixin/]: Reference map 'create.refmap.json' for create.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Aug2025 03:42:23.200] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30Aug2025 03:42:23.278] [main/INFO] [net.neoforged.neoforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [createdeco]
+[30Aug2025 03:42:28.314] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.193, for MC 1.21.1
+[30Aug2025 03:42:28.382] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 20ad05b5e525166018d21e88c96986f867c7088f
+[30Aug2025 03:42:29.422] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[30Aug2025 03:42:29.435] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[30Aug2025 03:42:31.758] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/micha/Documents/Blocks%20&%20Bogeys%201.21.1/CreateDeco/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.193/neoforge-21.1.193.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[30Aug2025 03:42:31.758] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/micha/Documents/Blocks%20&%20Bogeys%201.21.1/CreateDeco/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.193/neoforge-21.1.193.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[30Aug2025 03:42:31.981] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registrate Provider for createdeco [Registries, Data Maps, Recipes, Advancements, Loot Tables, Tags (enchantments), Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider]

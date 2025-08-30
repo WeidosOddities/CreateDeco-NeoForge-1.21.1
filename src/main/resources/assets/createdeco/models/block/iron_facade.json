@@ -1,0 +1,7 @@
+{
+  "parent": "createdeco:block/facade",
+  "textures": {
+    "2": "createdeco:block/palettes/catwalks/iron_catwalk",
+    "particle": "createdeco:block/palettes/catwalks/iron_catwalk"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "createdeco:block/copper_catwalk"
+      }
+    },
+    {
+      "apply": {
+        "model": "createdeco:block/copper_catwalk_support"
+      },
+      "when": {
+        "bottom": "true"
+      }
+    }
+  ]
+}
